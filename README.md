@@ -1,1 +1,1 @@
-# Use-Get-JSON-using-AJAX-Exercise
+# JSON-using-AJAX-Exercise
